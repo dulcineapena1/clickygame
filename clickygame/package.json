@@ -1,5 +1,6 @@
 {
   "name": "clickygame",
+  "homepage" : "http://dulcineapena1.github.io/clickygame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
