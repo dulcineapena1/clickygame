@@ -1,3 +1,11 @@
 nav{
   width: 100%;
+  
+}
+
+.navbar{
+  display: inline-block;
+  text-align: center;
+  color: white;
+  font-weight: bold;
 }
